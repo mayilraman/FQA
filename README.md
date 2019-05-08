@@ -1,3 +1,3 @@
 # FQA
-testqacsrv123
+testmqmsg
 
